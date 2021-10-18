@@ -1,4 +1,4 @@
-# Analise de Sistema Operacional
+# Analise de Sistema Operacional WinService
 
 <h1 align="center">Aplicação Windows Service/ Console</h1>
 
