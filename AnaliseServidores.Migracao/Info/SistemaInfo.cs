@@ -28,7 +28,7 @@ namespace AnaliseServidores.Migracao.Info
             }
             catch (Exception ex)
             {
-                _log.Error("Erro de HostName: " + ex);
+                _log.Error("Erro na busca pelo Hostname! Erro: " + ex);
             }
         }
 
@@ -47,7 +47,7 @@ namespace AnaliseServidores.Migracao.Info
                     if (managementObject["OSArchitecture"] != null)
                     {
                         string arqOS = managementObject["OSArchitecture"].ToString();
-                        _log.Info("Arquitetura do sistema operacional: " + arqOS);
+                        _log.Info("Arquitetura do Sistema Operacional: " + arqOS);
                     }
                     if (managementObject["CSDVersion"] != null)
                     {
@@ -58,7 +58,7 @@ namespace AnaliseServidores.Migracao.Info
             }
             catch (Exception ex)
             {
-                _log.Error("Erro de Informações do Sistema: " + ex);
+                _log.Error("Erro na busca por informações do Sistema Operacional! Erro: " + ex);
             }
         }
 
@@ -78,12 +78,12 @@ namespace AnaliseServidores.Migracao.Info
 
                     DateTime dataInstalacao = dataInicial.AddSeconds(regVal);
 
-                    _log.Info("Data de Instalação do Sistema Operacional: " + dataInstalacao);
+                    _log.Info("Data de instalação do Sistema Operacional: " + dataInstalacao);
                 }
             }
             catch (Exception ex)
             {
-                _log.Error("Erro na Busca da Data de Instalação: " + ex);
+                _log.Error("Erro na busca pela data de instalação do Sistema Operacional! Erro: " + ex);
             }
         }
 

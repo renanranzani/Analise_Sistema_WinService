@@ -1,16 +1,15 @@
 ﻿using AnaliseServidores.Migracao.Interfaces;
 using AnaliseServidores.Migracao.Kernel;
 using AnaliseServidores.Migracao.Utils;
+using log4net;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.ServiceProcess;
-using System.Text;
 
 namespace AnaliseServidores.Migracao
 {
     public static class Program
     {
+        private static readonly ILog _log = LogManager.GetLogger(typeof(Program));
 
         public class Service : ServiceBase
         {
@@ -48,9 +47,9 @@ namespace AnaliseServidores.Migracao
                         Console.ReadKey();
                     };
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    throw e;
+                    throw ex;
                 }
                 finally
                 {
@@ -69,7 +68,7 @@ namespace AnaliseServidores.Migracao
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex + "Aplicação Finalizada");
+                _log.Info("Aplicação finalizada!" + ex);
             }
 
         }

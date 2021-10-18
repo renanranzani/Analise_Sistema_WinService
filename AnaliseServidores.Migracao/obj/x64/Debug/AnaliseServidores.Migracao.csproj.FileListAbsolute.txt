@@ -13,3 +13,4 @@ C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.csproj.CopyComplete
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.exe
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.pdb
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.csproj.AssemblyReference.cache
