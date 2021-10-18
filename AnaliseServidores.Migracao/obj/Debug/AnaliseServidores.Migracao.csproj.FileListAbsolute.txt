@@ -1,0 +1,16 @@
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\AnaliseServidores.Migracao.exe.config
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\AnaliseServidores.Migracao.exe
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\AnaliseServidores.Migracao.pdb
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\log4net.dll
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\Ninject.dll
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\log4net.xml
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\Ninject.xml
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.exe
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.pdb
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.exe.manifest
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\AnaliseServidores.Migracao.exe.manifest
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\Debug\AnaliseServidores.Migracao.application
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.application
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.csproj.CopyComplete
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\Debug\AnaliseServidores.Migracao.csproj.AssemblyReference.cache

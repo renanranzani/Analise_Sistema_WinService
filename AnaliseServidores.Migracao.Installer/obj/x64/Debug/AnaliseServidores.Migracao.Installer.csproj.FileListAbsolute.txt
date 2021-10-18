@@ -1,0 +1,9 @@
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug\AnaliseServidores.Migracao.Installer.exe.manifest
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug\AnaliseServidores.Migracao.Installer.application
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug\AnaliseServidores.Migracao.Installer.exe
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug\AnaliseServidores.Migracao.Installer.pdb
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.exe.manifest
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.application
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.exe
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.pdb

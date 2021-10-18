@@ -1,0 +1,6 @@
+2021-10-18 14:28:16,586 [1] INFO AnaliseServidores.Migracao.Service.ExecutarAppService (25) - Executando a aplicação...
+2021-10-18 14:28:16,812 [1] INFO AnaliseServidores.Migracao.Info.SistemaInfo (27) - HostName do Servidor: DESKTOP-IC1IN19
+2021-10-18 14:28:17,271 [1] INFO AnaliseServidores.Migracao.Info.SistemaInfo (45) - Sistema Operacional: Microsoft Windows 10 Home Single Language
+2021-10-18 14:28:17,273 [1] INFO AnaliseServidores.Migracao.Info.SistemaInfo (50) - Arquitetura do sistema operacional: 64 bits
+2021-10-18 14:28:17,276 [1] INFO AnaliseServidores.Migracao.Info.SistemaInfo (81) - Data de Instalação do Sistema Operacional: 11/10/2021 19:04:22
+2021-10-18 14:28:17,277 [1] INFO AnaliseServidores.Migracao.Service.ExecutarAppService (31) - Aplicação finalizada.
