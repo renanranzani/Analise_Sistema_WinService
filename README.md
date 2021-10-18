@@ -1,6 +1,6 @@
-# Analise de Sistema Operacional - Console/ Windows Service
+# Analise de Sistema Operacional
 
-<h1 align="center">Analise de Sistema Operacional </h1>
+<h1 align="center">Aplicação Windows Service/ Console</h1>
 
 
 <p align="center">
