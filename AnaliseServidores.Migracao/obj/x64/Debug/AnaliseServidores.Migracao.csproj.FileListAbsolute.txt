@@ -1,0 +1,15 @@
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\AnaliseServidores.Migracao.exe.config
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\AnaliseServidores.Migracao.exe.manifest
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\AnaliseServidores.Migracao.application
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\AnaliseServidores.Migracao.exe
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\AnaliseServidores.Migracao.pdb
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\log4net.dll
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\Ninject.dll
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\log4net.xml
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\bin\x64\Debug\Ninject.xml
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.exe.manifest
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.application
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.csproj.CopyComplete
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.exe
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao\obj\x64\Debug\AnaliseServidores.Migracao.pdb
