@@ -6,7 +6,6 @@ using System.Linq;
 using System.Reflection;
 using System.Security.Principal;
 using System.ServiceProcess;
-using System.Text;
 
 namespace AnaliseServidores.Migracao.Installer
 {
