@@ -19,8 +19,8 @@ namespace AnaliseServidores.Migracao.Installer
 
         const string ProgramPath = "AnaliseServidores.Migracao";
         const string ServiceName = "AnaliseServidores.Migracao";
-        const string DisplayName = "Agente de Monitoração Migra Servidores";
-        const string Description = "Serviço responsável por iniciar a aplicação de análise de migração de servidores.";
+        const string DisplayName = "Agente de Monitoração Servidores";
+        const string Description = "Serviço responsável por iniciar a aplicação de análise de migração.";
         const string ProgramName = "AnaliseServidores.Migracao.exe";
 
         static List<string> _outputlog = new List<string>();
