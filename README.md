@@ -1,7 +1,10 @@
 # Analise de Sistema Operacional
 
-<h1 align="center">Aplicação Windows Service/ Console</h1>
+<h1 align="center">
+    <img alt="Windows Service" title="Windows Service" src="./assets/Service.PNG" />
+</h1>
 
+<h1 align="center">Aplicação Windows Service/ Console</h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
