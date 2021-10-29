@@ -2,7 +2,9 @@
 
 <h1 align="center">Aplicação Windows Service/ Console</h1>
 
-<a href="https://github.com/renanranzani/Analise_Sistema_WinService/blob/master/assets/Service.PNG"></a>
+<h1 align="center">
+    <img alt="Windows Service" title="Windows Service" src="./assets/Service.PNG" />
+</h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
