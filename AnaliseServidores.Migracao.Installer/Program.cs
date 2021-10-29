@@ -162,8 +162,17 @@ namespace AnaliseServidores.Migracao.Installer
             command = $"sc query \"{serviceName}\"";
             ExecuteCommand(command);
 
+            Write("\n ------------------ Agendando serviço --------- \n");
+
+            command = @"schtasks /create /tn AnaliseMigraServidores /tr AnaliseServidores.Migracao.Installer.exe /sc daily /st 18:00 /du 05:00";
+            ExecuteCommand(command);
+
+
+
             Write("\n ------------------ Instalação completa --------- \n");
-        }
+        
+    }
+
 
         static string CreateLogOutputDirectory()
         {

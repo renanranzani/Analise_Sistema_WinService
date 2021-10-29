@@ -1,86 +1,39 @@
-25/10/2021 17:06:49: Verificando se o instalador foi executado com permissão de administrador...
-25/10/2021 17:06:49: Verificando se o serviço AnaliseServidores.Migracao já está instalado...
-25/10/2021 17:06:49: 
+29/10/2021 09:39:47: Verificando se o instalador foi executado com permissão de administrador...
+29/10/2021 09:39:47: Verificando se o serviço AnaliseServidores.Migracao já está instalado...
+29/10/2021 09:39:47: O serviço AnaliseServidores.Migracao já está instalado. Você deseja reinstalar o serviço (S/N)?
+29/10/2021 09:39:51: Microsoft Windows [versão 10.0.19043.1288]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc stop "{serviceName}"
+[SC] OpenService FALHA 1060:
+
+O serviço especificado não existe como serviço instalado.
+
+
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
+29/10/2021 09:39:51: Microsoft Windows [versão 10.0.19043.1288]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc delete "AnaliseServidores.Migracao"
+[SC] DeleteService FALHA 1072:
+
+O serviço especificado foi marcado para ser excluído.
+
+
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
+29/10/2021 09:39:51: Microsoft Windows [versão 10.0.19043.1288]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>rd /Q /S "C:\Program Files\AnaliseServidores.Migracao"
+
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
+29/10/2021 09:39:51: 
  ------------------ Iniciando instalação do AnaliseServidores.Migracao --------- 
 
-25/10/2021 17:06:49: Criando o diretório C:\Program Files\AnaliseServidores.Migracao...
-25/10/2021 17:06:49: Copiando arquivos de C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug\publish\ para C:\Program Files\AnaliseServidores.Migracao\...
-25/10/2021 17:06:49: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc create "AnaliseServidores.Migracao" binPath= "C:\Program Files\AnaliseServidores.Migracao\AnaliseServidores.Migracao.exe"
-[SC] CreateService ÊXITO
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:49: 
- ------------------ Iniciando configuração --------- 
-
-25/10/2021 17:06:50: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc config "AnaliseServidores.Migracao" start= auto
-[SC] ChangeServiceConfig ÊXITO
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:50: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc config "AnaliseServidores.Migracao" DisplayName= "Agente de Monitoração Migra Servidores"
-[SC] ChangeServiceConfig ÊXITO
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:50: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc description "AnaliseServidores.Migracao" "Serviço responsável por iniciar a aplicação de análise de migração de servidores."
-[SC] ChangeServiceConfig2 ÊXITO
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:50: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc start "AnaliseServidores.Migracao" reset= 86400 actions= restart/60000/restart/60000/restart/60000/restart/60000
-
-NOME_DO_SERVIÇO: AnaliseServidores.Migracao 
-    TIPO                       : 10  WIN32_OWN_PROCESS  
-    ESTADO                     : 2  START_PENDING 
-                                (NOT_STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
-    CÓDIGO_DE_SAÍDA_DO_WIN32   : 0  (0x0)
-    CÓDIGO_DE_SAÍDA_DO_SERVIÇO : 0  (0x0)
-    PONTO_DE_VERIFICAÇÃO       : 0x0
-    AGUARDAR_DICA              : 0x7d0
-    PID                        : 9516
-    SINALIZADORES              : 
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:50: 
- ------------------ Iniciando serviço --------- 
-
-25/10/2021 17:06:50: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc start "AnaliseServidores.Migracao"
-[SC] StartService FALHA 1056:
-
-Uma cópia deste serviço já está sendo executada.
-
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:50: Microsoft Windows [versão 10.0.19043.1288]
-(c) Microsoft Corporation. Todos os direitos reservados.
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc query "AnaliseServidores.Migracao"
-
-NOME_DO_SERVIÇO: AnaliseServidores.Migracao 
-    TIPO                       : 10  WIN32_OWN_PROCESS  
-    ESTADO                     : 2  START_PENDING 
-                                (STOPPABLE, NOT_PAUSABLE, ACCEPTS_SHUTDOWN)
-    CÓDIGO_DE_SAÍDA_DO_WIN32   : 0  (0x0)
-    CÓDIGO_DE_SAÍDA_DO_SERVIÇO : 0  (0x0)
-    PONTO_DE_VERIFICAÇÃO       : 0x0
-    AGUARDAR_DICA              : 0x0
-
-C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-25/10/2021 17:06:50: 
- ------------------ Instalação completa --------- 
-
+29/10/2021 09:39:51: O diretório C:\Program Files\AnaliseServidores.Migracao já existe. Removendo...
+29/10/2021 09:39:51: System.UnauthorizedAccessException: O acesso ao caminho 'AnaliseServidores.Migracao.exe' foi negado.
+   em System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
+   em System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
+   em AnaliseServidores.Migracao.Installer.Program.CreateFolderStructure(String rootPath, String programPath) na C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\Program.cs:linha 195
+   em AnaliseServidores.Migracao.Installer.Program.InstallAndStart(String serviceName, String displayName, String description, String sourceDirName) na C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\Program.cs:linha 137
+   em AnaliseServidores.Migracao.Installer.Program.Main(String[] args) na C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\Program.cs:linha 57
