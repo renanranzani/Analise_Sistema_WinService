@@ -1,7 +1,7 @@
-29/10/2021 09:39:47: Verificando se o instalador foi executado com permissão de administrador...
-29/10/2021 09:39:47: Verificando se o serviço AnaliseServidores.Migracao já está instalado...
-29/10/2021 09:39:47: O serviço AnaliseServidores.Migracao já está instalado. Você deseja reinstalar o serviço (S/N)?
-29/10/2021 09:39:51: Microsoft Windows [versão 10.0.19043.1288]
+29/10/2021 11:01:24: Verificando se o instalador foi executado com permissão de administrador...
+29/10/2021 11:01:24: Verificando se o serviço AnaliseServidores.Migracao já está instalado...
+29/10/2021 11:01:24: O serviço AnaliseServidores.Migracao já está instalado. Você deseja reinstalar o serviço (S/N)?
+29/10/2021 11:01:26: Microsoft Windows [versão 10.0.19043.1288]
 (c) Microsoft Corporation. Todos os direitos reservados.
 
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc stop "{serviceName}"
@@ -11,7 +11,7 @@ O serviço especificado não existe como serviço instalado.
 
 
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-29/10/2021 09:39:51: Microsoft Windows [versão 10.0.19043.1288]
+29/10/2021 11:01:27: Microsoft Windows [versão 10.0.19043.1288]
 (c) Microsoft Corporation. Todos os direitos reservados.
 
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>sc delete "AnaliseServidores.Migracao"
@@ -21,17 +21,17 @@ O serviço especificado foi marcado para ser excluído.
 
 
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-29/10/2021 09:39:51: Microsoft Windows [versão 10.0.19043.1288]
+29/10/2021 11:01:27: Microsoft Windows [versão 10.0.19043.1288]
 (c) Microsoft Corporation. Todos os direitos reservados.
 
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>rd /Q /S "C:\Program Files\AnaliseServidores.Migracao"
 
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\bin\x64\Debug>
-29/10/2021 09:39:51: 
+29/10/2021 11:01:27: 
  ------------------ Iniciando instalação do AnaliseServidores.Migracao --------- 
 
-29/10/2021 09:39:51: O diretório C:\Program Files\AnaliseServidores.Migracao já existe. Removendo...
-29/10/2021 09:39:51: System.UnauthorizedAccessException: O acesso ao caminho 'AnaliseServidores.Migracao.exe' foi negado.
+29/10/2021 11:01:27: O diretório C:\Program Files\AnaliseServidores.Migracao já existe. Removendo...
+29/10/2021 11:01:27: System.UnauthorizedAccessException: O acesso ao caminho 'AnaliseServidores.Migracao.exe' foi negado.
    em System.IO.Directory.DeleteHelper(String fullPath, String userPath, Boolean recursive, Boolean throwOnTopLevelDirectoryNotFound, WIN32_FIND_DATA& data)
    em System.IO.Directory.Delete(String fullPath, String userPath, Boolean recursive, Boolean checkHost)
    em AnaliseServidores.Migracao.Installer.Program.CreateFolderStructure(String rootPath, String programPath) na C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\Program.cs:linha 195

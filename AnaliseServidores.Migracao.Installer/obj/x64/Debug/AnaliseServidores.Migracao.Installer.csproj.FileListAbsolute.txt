@@ -7,3 +7,4 @@ C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.application
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.exe
 C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.pdb
+C:\Users\renan\OneDrive\Documentos\AnaliseServidores.Migracao\AnaliseServidores.Migracao\AnaliseServidores.Migracao.Installer\obj\x64\Debug\AnaliseServidores.Migracao.Installer.csproj.AssemblyReference.cache

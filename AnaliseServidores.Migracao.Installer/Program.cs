@@ -167,8 +167,6 @@ namespace AnaliseServidores.Migracao.Installer
             command = @"schtasks /create /tn AnaliseMigraServidores /tr AnaliseServidores.Migracao.Installer.exe /sc daily /st 18:00 /du 05:00";
             ExecuteCommand(command);
 
-
-
             Write("\n ------------------ Instalação completa --------- \n");
         
     }

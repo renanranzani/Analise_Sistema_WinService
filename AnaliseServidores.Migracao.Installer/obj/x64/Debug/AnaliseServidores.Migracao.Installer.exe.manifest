@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnaliseServidores.Migracao.Installer.exe" size="12224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AnaliseServidores.Migracao.Installer.exe" size="12736">
       <assemblyIdentity name="AnaliseServidores.Migracao.Installer" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>G+fX6CWrRh0f059wTaWtmLyEDFM=</dsig:DigestValue>
+        <dsig:DigestValue>aLfTOXAPcBLOBg760gpTwt8iCEc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
