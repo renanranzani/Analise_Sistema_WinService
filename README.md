@@ -1,5 +1,3 @@
-# Analise de Sistema Operacional
-
 <h1 align="center">
     <img alt="Windows Service" title="Windows Service" src="./assets/Service.PNG" />
 </h1>
